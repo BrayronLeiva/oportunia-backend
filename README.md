@@ -1,9 +1,9 @@
-# Backend for TaskApp
-The TaskApp represents a distributed system based on layers and interactions with different components.
+# Backend for Oportunia
+The Oportunia represents a distributed system based on layers and interactions with different components.
 
 ## App Architecture
 
-![TaskApp_System](diagrams/TaskApp_System.png)
+![OportuniaApp_System](diagrams/TaskApp_System.png)
 
 
 ### Persistent or Data Layer
@@ -18,7 +18,7 @@ The main objects are the Entities and the relationship between them.
 
 PostgreSQL: The World's Most Advanced Open Source Relational Database
 
-![taskapp-er](diagrams/taskapp-er.png)
+![taskapp-er](diagrams/Database ER diagram .png)
 
 # General terms
 
