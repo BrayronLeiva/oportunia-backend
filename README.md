@@ -18,7 +18,7 @@ The main objects are the Entities and the relationship between them.
 
 PostgreSQL: The World's Most Advanced Open Source Relational Database
 
-![taskapp-er](diagrams/Database ER diagram .png)
+![taskapp-er](diagrams/ER.png)
 
 # General terms
 
