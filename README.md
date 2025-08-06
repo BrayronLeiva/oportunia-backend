@@ -1,6 +1,17 @@
 # Backend for Oportunia
 The Oportunia represents a distributed system based on layers and interactions with different components.
 
+## Skills 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT Security](https://img.shields.io/badge/Security-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Dagger](https://img.shields.io/badge/DI-Dagger-FF4081?style=for-the-badge&logo=dagger&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![OpenAI](https://img.shields.io/badge/API-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+
+
 ## App Architecture
 
 ![OportuniaApp_System](diagrams/TaskApp_System.png)
