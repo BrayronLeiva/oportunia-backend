@@ -35,8 +35,13 @@ PostgreSQL: The World's Most Advanced Open Source Relational Database
 
 ## Distributed system
 
-A distributed system is one in which both data and transaction processing are divided between one or more computers connected by a network, each computer playing a specific role in the system.
-## The Client-Server Model and Distributed Systems
-The client-server model is basic to distributed systems. It is a response to the limitations presented by the traditional mainframe client-host model, in which a single mainframe provides shared data access to many dumb terminals. The client-server model is also a response to the local area network (LAN) model, in which many isolated systems access a file server that provides no processing power.
+This backend is built using an N-Tier (multi-layer) architecture, which clearly separates
+responsibilities between presentation, business logic, domain, and data. Its purpose is to
+provide secure and scalable REST services that interact with the mobile frontend, while also
+integrating smart features using the OpenAI API
 
-Client-server architecture provides integration of data and services and allows clients to be isolated from inherent complexities, such as communication protocols. The simplicity of the client-server architecture allows clients to make requests that are routed to the appropriate server. These requests are made in the form of transactions.
+## Key Features
+
+- **JWT-based authentication and authorization** (JSON Web Tokens)
+- **Well-structured REST services**
+- **Integration with OpenAI API** for content generation and intelligent processing
